@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvinlaroya
 - 👀 I’m interested in Web and mobile development
-- 🌱 I’m currently learning MERN/MEVN stack
+- 🌱 I’m currently working on MERN/MEVN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
